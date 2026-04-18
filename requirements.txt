@@ -1,0 +1,6 @@
+streamlit
+rdkit
+torch
+torch-geometric
+pandas
+joblib
