@@ -56,5 +56,7 @@ Adding a more diverse range of chemical environments and solvents to bridge the 
 
 ## 📌 Author
 Gia Phuc La
+
 Project: SpringXNMR Project - 2026
+
 License: MIT
